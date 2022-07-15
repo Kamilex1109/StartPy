@@ -16,4 +16,10 @@ else:
     print("Hasło nieprawidłowe!")
 """
 
-
+lista = ["Kurs", "Pythona", "Kanał", "o", "Wszystkim"]
+print(len(lista))
+i = 0
+for x in lista:
+    while i < len(lista):
+        print(lista[i])
+        i += 1
