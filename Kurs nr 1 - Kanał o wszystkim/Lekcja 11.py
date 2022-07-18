@@ -10,5 +10,6 @@ from math import exp
 print(random.randint(1, 10))
 print(pi)
 print(pierwiastek(exp(pi)))
+print(sq)
 
 
